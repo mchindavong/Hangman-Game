@@ -1,0 +1,22 @@
+body {
+  background: #ebebeb;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  color:#000;
+  height:100%;
+  text-align:center;
+  font-size:18px;
+  
+}
+
+.game {
+	color: #000;
+	margin: auto;
+}
+
+h1, h2 {
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+   margin:5px;
+}
+
+  }
